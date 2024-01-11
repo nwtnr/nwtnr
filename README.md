@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nwtnr, AKA Thendo Netshivhazwaulu 
-- 👀 I’m interested in AI, Web Development, 
+- 👋 Hi, I’m @nwtnr, Mr Thendo Netshivhazwaulu 
+- 👀 I’m interested in AI, Web Development, Software Devlopment
 - 🌱 I’m currently  learning  Programming 
 ** and Am Familiar  with  Python, Java, HTML5, PHP, and  C++  Programming language   
 - 💞️ I’m looking to collaborate on challenging  project  software  development    
